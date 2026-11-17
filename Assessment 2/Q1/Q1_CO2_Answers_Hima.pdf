@@ -1,0 +1,316 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 8 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 9 0
+2 0 obj
+<<
+  /Author (P H Devesh)
+  /CreationDate (D:20261109092215+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20261109092215+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (Q1 \205 Decisions with Many Boundaries)
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 10 0
+3 0 obj
+<<
+  /Count 2
+  /Kids [
+    4 0 R
+    5 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 3 0
+4 0 obj
+<<
+  /Contents 6 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 8 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Page 2
+%% Original object ID: 7 0
+5 0 obj
+<<
+  /Contents 9 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 8 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 11 0
+6 0 obj
+<<
+  /Length 7 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.18898 614.7874 cm
+Q
+q
+1 0 0 1 54.18898 592.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F1 13 Tf 22 TL 154.2298 0 Td (Name: C Hima Shankar Reddy) Tj T* -154.2298 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 570.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F1 13 Tf 22 TL 154.5743 0 Td (Register Number: 1925260266) Tj T* -154.5743 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 548.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F1 13 Tf 22 TL 123.1533 0 Td (Subject: Python Programming \(CSA0805\)) Tj T* -123.1533 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 526.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F1 13 Tf 22 TL 192.5148 0 Td (Assignment: CO2) Tj T* -192.5148 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+
+7 0 obj
+666
+endobj
+
+%% Original object ID: 1 0
+8 0 obj
+<<
+  /F1 11 0 R
+  /F2 12 0 R
+  /F3 13 0 R
+  /F4 14 0 R
+>>
+endobj
+
+%% Contents for page 2
+%% Original object ID: 12 0
+9 0 obj
+<<
+  /Length 10 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.18898 771.5354 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Q1 \226 Decisions with Many Boundaries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 747.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Decision rule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 705.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL -0.100131 Tw (Use a mutually exclusive if\226elif\226else chain: up to 100 units receives full subsidy; 101\226200 receives partial subsidy only with) Tj T* 0 Tw (a ration card; above 200 receives the senior exception only when a member is older than 80; otherwise no subsidy.) Tj T* (Separate if statements can independently execute more than one branch and issue conflicting decisions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 683.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Boundary predictions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 641.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL -0.093848 Tw (100 ) Tj /F3 9 Tf 12 TL <ae> Tj /F1 9 Tf 12 TL ( full; 101 with ration card ) Tj /F3 9 Tf 12 TL <ae> Tj /F1 9 Tf 12 TL ( partial; 101 without card ) Tj /F3 9 Tf 12 TL <ae> Tj /F1 9 Tf 12 TL ( none; 200 with card ) Tj /F3 9 Tf 12 TL <ae> Tj /F1 9 Tf 12 TL ( partial; 200 without card ) Tj /F3 9 Tf 12 TL <ae> Tj /F1 9 Tf 12 TL ( none; 201) Tj T* 0 Tw -0.08444 Tw (with age over 80 ) Tj /F3 9 Tf 12 TL <ae> Tj /F1 9 Tf 12 TL ( senior exception; 201 without age exception ) Tj /F3 9 Tf 12 TL <ae> Tj /F1 9 Tf 12 TL ( none. The predicates must use inclusive bounds where) Tj T* 0 Tw (specified.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 619.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Design choice and alternative) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 565.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 39 Tm /F1 9 Tf 12 TL (A flat if\226elif chain is clearest because the slabs are ordered and exclusive. Nested if statements can obscure the complete) Tj T* (rule; combined Boolean expressions are concise when parenthesised. A match\226case can match guarded conditions, while) Tj T* (a list of upper-limit rules can be scanned in order. For k slabs, a chain or list scan is O\(k\) worst case and O\(1\) extra space;) Tj T* (a small fixed set of branches is effectively constant. A dictionary lookup is not ideal for continuous ranges.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 543.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Complexity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 525.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (The decision uses a fixed number of comparisons, O\(1\) time and O\(1\) space for the stated four bands.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 503.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Python Program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 384.7354 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 108 Tm /F4 6.8 Tf 8.2 TL (def subsidy\(units, ration_card, age_over_80\):) Tj T* (    if units <= 100:) Tj T* (        return "full subsidy") Tj T* (    elif 101 <= units <= 200 and ration_card:) Tj T* (        return "partial subsidy") Tj T* (    elif units > 200 and age_over_80:) Tj T* (        return "senior-citizen exception") Tj T* (    return "no subsidy") Tj T*  T* (cases = [\(100, False, False\), \(101, True, False\), \(200, True, False\),) Tj T* (         \(201, False, True\), \(201, False, False\), \(100, True, True\),) Tj T* (         \(150, False, True\), \(200, True, True\)]) Tj T* (for case in cases:) Tj T* (    print\(case, "->", subsidy\(*case\)\)) Tj T* ET
+Q
+ 
+endstream
+endobj
+
+10 0 obj
+3463
+endobj
+
+%% Original object ID: 2 0
+11 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 4 0
+12 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 5 0
+13 0 obj
+<<
+  /BaseFont /Symbol
+  /Name /F3
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 6 0
+14 0 obj
+<<
+  /BaseFont /Courier
+  /Encoding /WinAnsiEncoding
+  /Name /F4
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 15
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000500 00000 n 
+0000000619 00000 n 
+0000000934 00000 n 
+0000001263 00000 n 
+0000001984 00000 n 
+0000002031 00000 n 
+0000002156 00000 n 
+0000005675 00000 n 
+0000005724 00000 n 
+0000005870 00000 n 
+0000006021 00000 n 
+0000006135 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 15
+  /ID [<83dbe15d375d4ba86da5f5750378c751><36542ba7d42894c4bcf993f62d2ef100>]
+>>
+startxref
+6252
+%%EOF
